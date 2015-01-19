@@ -1,0 +1,33 @@
+{
+  "name": "typescript-import-export",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cyril Schumacher",
+  "license": "Public Domain",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.9.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "typescript": "^1.4.1"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "^0.7.0",
+    "bower": "^1.3.12",
+    "grunt-ts": "^2.0.1",
+    "typescript": "^1.4.1",
+    "grunt-contrib-connect": "^0.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyrilschumacher/typescript-import-export"
+  },
+  "bugs": {
+    "url": "https://github.com/cyrilschumacher/typescript-import-export/issues"
+  },
+  "homepage": "https://github.com/cyrilschumacher/typescript-import-export"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "typescript-import-export",
+  "version": "1.0.0",
+  "authors": [
+    "Cyril Schumacher"
+  ],
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "license": "Public Domain",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "~2.1.15"
+  }
+}
